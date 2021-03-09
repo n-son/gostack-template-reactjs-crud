@@ -23,6 +23,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 4,
+      "name": "Lámen",
+      "description": "sopa com caldo à base de ossos de porco, peixe ou frango, e temperados com uma base tarê (molho) que da sabor ao caldo base.",
+      "price": "32.90",
+      "available": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Original_Ramen.jpg/300px-Original_Ramen.jpg"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/250px-Lasagne_-_stonesoup.jpg",
+      "name": "Lasanha",
+      "price": "69.90",
+      "description": " lasanha ao forno, feito com essas fitas colocadas em camadas, e entremeadas com recheio (queijo, carne moída ou outros) e molho",
+      "available": true,
+      "id": 5
     }
   ]
 }
